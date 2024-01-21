@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="jamaal-ahmed" /> </p>
 
-- 🔭 I’m currently working on **free-lancer in bug bounty**
+- 🔭 I’m currently working on **freelancer with bug bounty**
 
 - 🌱 I’m currently learning **ruby java c#**
 
