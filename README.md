@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm jamaal ahmed</h1>
 <h3 align="center">I'm cybersecurity engineer in somalia</h3>
+<img align="right" alt=coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-img align="right" alt=coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="jamaal-ahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamaal-ahmed" alt="jamaal-ahmed" /></a> </p>
-
-- 🔭 I’m currently working on **freelancer in bug bounty**
+- 🔭 I’m currently working on **free-lancer in bug bounty**
 
 - 🌱 I’m currently learning **ruby java c#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JamaaL-AhmeD](https://github.com/JamaaL-AhmeD)
 
-- 💬 Ask me about **Security**
+- 💬 Ask me about **security and vulnerabilites .**
 
 - ⚡ Fun fact **deep-think**
 
